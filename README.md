@@ -1,0 +1,2 @@
+# slick-slices
+Gatsby, React
